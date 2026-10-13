@@ -1,0 +1,20 @@
+{
+  "_updated": "2026-10-07",
+  "_note": "Live 2026 Instagram hashtag data. 2026 best practice: 3-5 FOCUSED tags beat 30. Top universal tags right now: viral, reels, trending, explore, fyp.",
+  "_general": ["viral", "reels", "trending", "explore", "fyp", "instagram", "instagood", "reelsinstagram", "trendingreels", "viralreels", "reelitfeelit", "explorepage", "trendingnow", "foryou", "reelstrending"],
+  "comedy": ["viralreel2026", "reelitfeelit", "trendingreels2026", "funnyreels", "comedyreels", "funnyvideos", "funnymemes", "funnyvideo", "memes", "lol", "humor", "reelscomedy"],
+  "ai": ["aishorts", "aivideo", "aigenerated", "aianimation", "aiart", "sora", "midjourney", "aitechnology", "aireels", "aiforexplore"],
+  "story": ["storyreels", "storytime", "motivational", "inspiring", "moralstory", "kahani", "reelsstory", "storyvideo"],
+  "baby": ["cutebaby", "babyshorts", "babyreels", "cute", "babysmiles", "babyfunny", "kidsreels"],
+  "food": ["foodreels", "foodie", "foodporn", "recipe", "cookingreels", "streetfood", "yummy", "foodlover", "chefreels"],
+  "fitness": ["fitnessreels", "workout", "gymreels", "fitfam", "healthylifestyle", "exercise", "gymlife", "yogareels"],
+  "dance": ["dancereels", "dancing", "choreography", "dancevideo", "trendydance", "dancer", "dancetrend"],
+  "pet": ["petreels", "cutedog", "cuteanimals", "puppy", "kitten", "pets", "animalreels", "dogsofinstagram", "catlovers"],
+  "travel": ["travelreels", "wanderlust", "travelgram", "adventure", "travelphotography", "vacationreels", "travelvideo", "explore"],
+  "music": ["musicreels", "song", "cover", "singing", "musician", "newmusic", "musicvideo", "singerreels"],
+  "fashion": ["fashionreels", "style", "ootd", "outfit", "fashionista", "streetstyle", "beauty", "fashiontrend"],
+  "gaming": ["gamingreels", "gamer", "gameplay", "videogame", "esports", "streamer", "gamingshorts"],
+  "education": ["educationreels", "learn", "learning", "facts", "howto", "tutorial", "tips", "knowledge", "sciencereels"],
+  "news": ["newsreels", "trendingnews", "breaking", "updates", "viralnews", "headlines"],
+  "trending_topics_oct2026": ["FIFAWorldCup2026", "AvengersDoomsday", "SaWaDiKa", "SILOSeason4", "BASSPERSUADES", "VikingRow"]
+}

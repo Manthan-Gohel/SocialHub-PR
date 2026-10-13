@@ -1,0 +1,8 @@
+requests
+playwright
+openpyxl
+instagrapi
+twikit
+google-auth
+google-auth-oauthlib
+google-api-python-client

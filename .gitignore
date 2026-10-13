@@ -1,0 +1,49 @@
+# ---- SECRETS (never commit) ----
+.env
+social_accounts.json
+jobs_pending.json
+posts_pending.json
+hub.db
+hub.db-*
+token.json
+client_secret.json
+ig_session.json
+ig_device.json
+ig_state.json
+ig_queue.json
+*.tmp.wav
+*.tmp.mp3
+
+# ---- Browser login sessions (cookies!) ----
+browser_profiles/
+
+# ---- Local content / state ----
+uploads/
+videos/
+*.mp4
+*.mp3
+*.wav
+downloaded.json
+last_upload.json
+schedule_state.json
+account_test_results.json
+download_state.json
+
+# ---- Personal / generated ----
+login_setup.bat
+hub.log
+hub_err.log
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.playwright-mcp/
+.DS_Store
+Thumbs.db
+
+# ---- Binaries / local assets ----
+bin/
+thumbs/
+0
+social_comments.json
